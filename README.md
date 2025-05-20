@@ -1,5 +1,6 @@
-Developed By: Swetha S
-Reg Number:212224040344
+# Name: Swetha S
+# Reg no: 21224040344
+# Dept: CSE
 
 # Correlation and regression for data analysis
 # Aim : 
