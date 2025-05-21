@@ -29,8 +29,7 @@ If y represents the dependent variable and x the independent variable, this rela
 
 
 # Output
-![WhatsApp Image 2025-05-20 at 13 58 09_879280af](https://github.com/user-attachments/assets/d6c96359-3aa3-4ef5-ac45-43a11aebffde)
-
+![Screenshot 2025-05-21 181110](https://github.com/user-attachments/assets/07891ece-690e-4f99-b2a4-20b800f4b4ef)
 
 # Result
 Analysation of the given data using coeffificient of correlation and regression line is calculated successfully.
